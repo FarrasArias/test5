@@ -1,3 +1,5 @@
+# Version 1.0.0
+
 def add(x, y):
     """This function adds two numbers together."""
     return x + y
