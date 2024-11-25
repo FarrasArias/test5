@@ -6,7 +6,7 @@ def add(x, y):
 
 def subtract(x, y):
     """This function subtracts two numbers."""
-    return x * y
+    return x - y
 
 
 if __name__ == "__main__":
